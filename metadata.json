@@ -1,0 +1,7 @@
+{
+  "name": "Hostel Management Pro",
+  "description": "A comprehensive Hostel Management System featuring student tracking, room allocation, payment processing, and complaint management with real-time data aggregation reports.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
